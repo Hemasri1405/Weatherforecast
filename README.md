@@ -2,9 +2,10 @@
 
 This is a simple weather forecasting website that uses HTML, CSS, and the OpenWeatherMap API to display current weather information.
 ##Overview of website
-![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/f24298f2-187c-4024-a4a3-0bf79ee7d093)
-![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/8fc9fb00-3fb7-4022-b48f-b3dc2417b3a5)
-![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/59d3b8b6-18b2-4038-a82d-ac3b4614f0de)
+![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/b685524d-e8f8-4019-9044-578fb7b6e7b6)
+![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/d92bbdc9-1ff0-47b5-bb92-5584af923011)
+![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/6c48881a-3cb8-47f5-8e72-a9a779a2220f)
+
 
 A simple and user-friendly weather forecasting website built using HTML, CSS, and JavaScript, leveraging the OpenWeatherMap API to provide real-time weather information. Users can input a city name, and the website fetches and displays the current temperature, weather description, and an icon representing the weather conditions for the specified location. The project aims to offer a straightforward interface for quick access to essential weather details, making it a handy tool for staying informed about the current weather in different cities.
 
