@@ -1,7 +1,7 @@
 # Weather Forecasting Website
 
 This is a simple weather forecasting website that uses HTML, CSS, and the OpenWeatherMap API to display current weather information.
-##Overview of website
+## Overview of website
 ![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/b685524d-e8f8-4019-9044-578fb7b6e7b6)
 ![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/d92bbdc9-1ff0-47b5-bb92-5584af923011)
 ![image](https://github.com/Hemasri1405/Weatherforecast/assets/146213788/6c48881a-3cb8-47f5-8e72-a9a779a2220f)
