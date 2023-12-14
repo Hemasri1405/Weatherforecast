@@ -34,10 +34,10 @@ Save the file.
 Open the index.html file in a web browser to view the weather forecasting website. Enter the city name in the input field and click the "Get Weather" button to see the current weather information.
 
 ### Features
-Fetches current weather data from OpenWeatherMap API.
-Displays temperature, weather description, and icon for the specified city.
-Built With
-HTML
-CSS
-JavaScript
-OpenWeatherMap API
+- Fetches current weather data from OpenWeatherMap API.
+- Displays temperature, weather description, and icon for the specified city.
+- Built With
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
